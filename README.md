@@ -10,7 +10,7 @@ find quality of life things.
 * /link will link you to The Island Player Resources
 * /r d# will roll a number currently between 1 and 9999, support for multiple dice is looking to be added in the future
 * /shrug will produce the classic `¯\_(ツ)_/¯`
-* /help will link you here... hi. An inline for commands solution will be developed in the future
+* /help will link you here... hi. An inline solution for commands will be developed in the future
 
 ## Changes
 
