@@ -3,7 +3,7 @@
 ## What You Need to Know
 
 This is a quick bot that I got set up for a group chat that I moderate. It can handle linking to appropriate resources, rolling dice, and other
-find quality of life things.
+misc quality of life things.
 
 ### Commands
 
