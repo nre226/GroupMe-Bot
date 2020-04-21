@@ -8,9 +8,11 @@ misc quality of life things.
 ### Commands
 
 * /link will link you to The Island Player Resources
-* /r d# will roll a number currently between 1 and 9999, support for multiple dice is looking to be added in the future
-* /shrug will produce the classic `¯\_(ツ)_/¯`
+* /r #d# will roll a number of dice between 1 and 99 (first #) and a side count of between 1 and 9999 (second #), support for addition and subtraction my come in the future
 * /help will link you here... hi. An inline solution for commands will be developed in the future
+* /rollCharacter will output stats for a new Island character
+* /good bot will tell him he is doing a good job
+* /shrug will produce the classic `¯\_(ツ)_/¯`
 
 ## Changes
 
