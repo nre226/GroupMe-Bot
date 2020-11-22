@@ -13,6 +13,8 @@ misc quality of life things.
 * /rollCharacter will output stats for a new Island character
 * /Hassan will give a random quote from the bartender. Can be used anywhere in the message.
 * /Hassan? will give a Yes, No, Maybe response. Can be used anywhere in the message.
+* /rh `stat` will have Hassan perform an ability check for the stat specified with `stat`
+* /rh #d# will have Hassan perform a standard die roll (see /r)
 * /good bot will tell him he is doing a good job
 * /shrug will produce the classic `¯\_(ツ)_/¯`
 
