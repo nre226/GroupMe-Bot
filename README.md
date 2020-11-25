@@ -18,6 +18,7 @@ misc quality of life things.
 * /rh #d# will have Hassan perform a standard die roll (see /r)
 * /good bot will tell him he is doing a good job
 * /shrug will produce the classic `¯\_(ツ)_/¯`
+* /nod and /nods will produce `*nods*`
 
 ## Changes
 
