@@ -9,6 +9,7 @@ misc quality of life things.
 
 * /link will link you to The Island Player Resources
 * /r #d# will roll a number of dice between 1 and 99 (first #) and a side count of between 1 and 9999 (second #), support for addition and subtraction my come in the future
+* /calendar will link you to the calendar of upcoming DM related island events
 * /help will link you here... hi. An inline solution for commands will be developed in the future
 * /rollCharacter will output stats for a new Island character
 * /Hassan will give a random quote from the bartender. Can be used anywhere in the message.
